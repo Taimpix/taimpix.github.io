@@ -4,8 +4,8 @@
 }
 body {
     margin:0;
-    font-size:200%;
     font-family:ubuntu;
+    height:device-height;
 }
 #heading{
     background:#c83e49;
