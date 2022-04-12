@@ -1,5 +1,12 @@
 body {
-    background-color: #1E90FF;
+    background: -moz-linear-gradient(top left, #ff8f32, #ff2100);
+    background: -webkit-radial-gradient(top left, #ff8f32, #ff2100);
+    background: -o-radial-gradient(top left, #ff8f32, #ff2100);
+    background: -ms-radial-gradient(top left, #ff8f32, #ff2100);
+    /*background-color: #1E90FF;*/
+    /*
+#FF8F32, 
+#FF2100*/
     font-family: "Courier New", Courier, monospace;
 }
 h1 {
