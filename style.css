@@ -11,6 +11,6 @@ img {
     width: 100%;
     /* еще больше контроля с max-width */
 }
-li {
+ol {
     font-size: x-large;
 }
