@@ -12,6 +12,8 @@ img {
     /* еще больше контроля с max-width */
 }
 ol {
+    margin-left: 20px;
+}
+li {
     font-size: x-large;
-    margin-left: 30px;
 }
