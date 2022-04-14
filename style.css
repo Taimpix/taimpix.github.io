@@ -13,7 +13,7 @@ h1 {
     text-align: center;
 }
 img {
-    max-width: 400px; 
+    /*max-width: 400px;*/ 
     height: auto;
     width: 100%;
     /* еще больше контроля с max-width */
