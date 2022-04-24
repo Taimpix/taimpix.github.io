@@ -16,11 +16,12 @@ img.help {
     height: 50px;
     width 50px;
 }
-img {
+li img {
     /*max-width: 400px;*/ 
     height: auto;
     width: 100%;
     /* еще больше контроля с max-width */
+}
 ol {
     margin-left: 20px;
 }
