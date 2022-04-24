@@ -12,16 +12,15 @@ body {
 h1 {
     text-align: center;
 }
+img.donationalerts {
+    height:50px;
+    width:50px;
+}
 img {
     /*max-width: 400px;*/ 
     height: auto;
     width: 100%;
     /* еще больше контроля с max-width */
-img.donationalerts {
-    height:50px;
-    width:50px;
-}
-}
 ol {
     margin-left: 20px;
 }
