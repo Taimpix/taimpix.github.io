@@ -13,8 +13,9 @@ h1 {
     text-align: center;
 }
 img.donationalerts {
-    height:50px;
-    width:50px;
+    background-color: white;
+    height: 50px;
+    width 50px;
 }
 img {
     /*max-width: 400px;*/ 
