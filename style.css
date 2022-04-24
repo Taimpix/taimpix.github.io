@@ -18,8 +18,8 @@ img {
     width: 100%;
     /* еще больше контроля с max-width */
 img.donationalerts {
-    height:150px;
-    width:150px;
+    height:50px;
+    width:50px;
 }
 }
 ol {
