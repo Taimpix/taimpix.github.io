@@ -20,6 +20,7 @@ ol img {
     /* еще больше контроля с max-width */
 }
 img.help {
+    align-content: center;
     height: 50px;
     width 50px;
 }
